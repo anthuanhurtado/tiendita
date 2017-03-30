@@ -1,0 +1,9 @@
+mysql -h if0ck476y7axojpg.cbetxkdyhwsb.us-east-1.rds.amazonaws.com -u uca3dxim5bydkjkx -p
+
+jqqn4wok0sr54b2h
+
+
+host     = if0ck476y7axojpg.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+user     = uca3dxim5bydkjkx
+password = jqqn4wok0sr54b2h
+db       = ln83qpa6cvznkb4f
